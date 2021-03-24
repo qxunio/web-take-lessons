@@ -1,0 +1,30 @@
+{
+  "id": "1636507",
+  "name": "take-lessons",
+  "font_family": "iconfont",
+  "css_prefix_text": "tl-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6909233",
+      "name": "喇叭",
+      "font_class": "horn",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "7549350",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "7549818",
+      "name": "锁",
+      "font_class": "pwd",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    }
+  ]
+}

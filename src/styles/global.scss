@@ -1,0 +1,81 @@
+// 主蓝
+$--main-color-blue: #207ed9;
+// 主橙
+$--main-color-orange: #ff9b04;
+// 主水红
+$--main-color-water-red: #e81042;
+// 主白
+$--main-color-white: #ffffff;
+
+// 页面的主容器
+.page-container {
+  width: 100%;
+  height: 100%;
+}
+
+// 页面的标题
+.page-container-title {
+  display: inline-block;
+  font-size: 20px !important;
+  line-height: 20px;
+  font-weight: 400;
+  margin-right: 20px;
+  color: #222;
+}
+
+// 页面标题头右侧按钮区域
+.page-container-title-right {
+  float: right;
+  padding-right: 20px;
+  height: 40px;
+}
+
+// 操作文字下的a标签
+.operate > a {
+  display: inline-block;
+  color: #1673c1;
+  width: auto !important;
+  height: auto !important;
+}
+
+// 操作文字下的a标签伪类
+.operate > a:hover {
+  text-decoration: underline;
+}
+
+.click-a {
+  display: inline-block;
+  color: #1673c1;
+  width: auto !important;
+  height: auto !important;
+}
+
+.click-a:hover {
+  text-decoration: underline;
+}
+
+// 关键词
+.key-word {
+  display: inline-block;
+  color: $--main-color-white;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 0 5px 0 5px;
+  background: $--main-color-water-red;
+}
+
+// 课程介绍
+.subject-introduction {
+  letter-spacing: 1px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+.filter-box {
+  height: 50px;
+  box-sizing: border-box;
+  margin: 30px auto 0;
+  vertical-align: center;
+  text-align: center;
+}
